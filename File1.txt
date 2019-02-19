@@ -1,4 +1,4 @@
 This is first git demo
 
-Change1 -> modified
-Change2  -> modified
+Change1 <==> modified
+Change2  <==> modified
